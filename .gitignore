@@ -18,6 +18,11 @@ migrate_working_dir/
 *.iws
 .idea/
 .env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.staging
 .env.occidente
 .env.oriente
 
